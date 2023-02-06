@@ -1,3 +1,4 @@
+# Week-1
 ### Introduction to T-SQL
 [![youtube](http://img.youtube.com/vi/YVwjBNV10K4/0.jpg)](http://www.youtube.com/watch?v=YVwjBNV10K4 "Virtual Internship Experience BTPN Syariah - Data Engineer - Video Learning 1")  
 TSQL merupakan singkatan dari Transact-SQL yang merupakan extension dari SQL sendiri. Pada Data Engineer BTPNS salah satu teknik yang digunakan adalah TSQL. Maka dari itu pemahaman dasar dari teknologi ini adalah ilmu yang wajib dimiliki oleh peserta VIX BTPNS  
@@ -53,7 +54,8 @@ Macam-macam statement, penjelasan mengenai setiap statement dan contoh implement
 	```
     SELECT COUNT(nama_kolom) FROM nama_tabel WHERE kondisi;
     ```
-</details>
+</details>  
+
 [PDF](files/Reading_2_TSQL_Statements.pdf)
 
 ### T-SQL Clause
