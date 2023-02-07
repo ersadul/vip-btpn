@@ -12,10 +12,11 @@ Datatypes pada T-SQL tidak jauh berbeda dengan datatypes pada sql, pada modul in
 Macam-macam statement, penjelasan mengenai setiap statement dan contoh implementasi statement:
 <details>
 <summary>Statement</summary>
+
 - SELECT: menampilkan maupun mengambil sebuah data pada tabel.
-	```
-    SELECT * FROM Customers;
-    ```
+	```  
+	SELECT * FROM Customers;
+	```  
 - WHERE: memfilter hasil SELECT dengan mengekstrak record yang memenuhi persyaratan tertentu
 	```
     SELECT kolom1, kolom2, … FROM nama_tabel WHERE kondisi;
