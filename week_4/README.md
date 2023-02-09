@@ -9,7 +9,7 @@ Sebagai bentuk pemahaman lebih dalam mengenai Microsoft SQL server, peserta akan
 [PDF](files/Reading_12_Microsoft_SQL_Server.pdf)
 
 ### SSIS Concept
-[![youtube](http://img.youtube.com/vi/pIbMBt4i4cw/0.jpg)](http://www.youtube.com/watch?v=pIbMBt4i4cw "Virtual Internship Experience BTPN Syariah - Data Engineer - Video Learning 8") 
+[![youtube](http://img.youtube.com/vi/pIbMBt4i4cw/0.jpg)](http://www.youtube.com/watch?v=pIbMBt4i4cw "Virtual Internship Experience BTPN Syariah - Data Engineer - Video Learning 8")  
 Peserta akan diperkenalkan dengan salah satu keunggulan dari Microsoft SQL server yaitu fitur SSIS dan ETL. Pada Video Learning ini peserta akan diberikan pengetahuan mengenai konsep SSIS dan menerapkan package ETL pada project Microsoft SQL Server. Hal ini dilakukan agar peserta memiliki pengetahuan lebih dalam mengenai Microsoft SQL Server.  
 [Slide](files/slide_8.pdf)
 
